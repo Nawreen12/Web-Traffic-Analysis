@@ -132,4 +132,5 @@ This project highlights a comprehensive overview of website traffic behaviour.  
 The analysis and interpretations presented in this report are based on publicly available data from Kaggle. This report is intended solely for learning and practicing data analysis skills. The findings and recommendations may not fully reflect the accuracy or completeness of the data.
  
 
-![Image] (![Web Traffic Analysis Dashboard Image](https://github.com/user-attachments/assets/37022a97-b02b-47c4-b8e2-bfe44667a1b0)
+![Image] (![Web Traffic Analysis Dashboard Image](https://github.com/user-attachments/assets/37022a97-b02b-47c4-b8e2-bfe44667a1b0) 
+
